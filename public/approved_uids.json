@@ -49,9 +49,10 @@
     "",
     "",
     "",
+    "",
     ""
   ],
-  "admin_uid": "61573693135035",
+  "admin_uid": "admin",
   "last_updated": "2023-11-15T12:00:00Z",
   "note": "These are example UIDs. Replace with your actual approved UIDs."
 }
