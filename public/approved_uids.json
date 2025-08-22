@@ -1,8 +1,8 @@
 {
   "approved_uids": [
-    "61573693135035",
+    "uid",
     "2615783450368046",
-    "",
+    "61573693135035",
     "",
     "",
     "",
@@ -52,7 +52,7 @@
     "",
     ""
   ],
-  "admin_uid": "admin",
+  "admin_uid": "",
   "last_updated": "2023-11-15T12:00:00Z",
   "note": "These are example UIDs. Replace with your actual approved UIDs."
 }
